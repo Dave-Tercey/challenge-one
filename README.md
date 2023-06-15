@@ -1,3 +1,3 @@
-# contact-form-project
-This repository contains HTML and CSS code of a single webpage that collects a visitor's contact information.
+# challenge-one
+This repository contains HTML and CSS code that follow accessibility standards in a way to have an optimized web application for search engines. 
 
